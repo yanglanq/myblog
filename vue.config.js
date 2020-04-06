@@ -14,6 +14,6 @@ module.exports = {
 			entry:"./src/pages/loginOrRegister/main.js",
 			template:"./public/index.html",
 			filename:"login.html"
-		},
+		}
 	}
 }
